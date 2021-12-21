@@ -1,0 +1,37 @@
+html
+{
+	background-image: url("Backgorund.gif");
+}
+
+fieldset
+{
+	margin-left: 40%;
+	text-align: center;
+	width: 20%;
+	border-radius: 5%;
+}
+
+.liste
+{
+	color: white;
+	font-size: 26px;
+	width: 30%; 
+	margin-top: 3%;
+	margin-left: 8%;
+	padding: 1.5%;
+}
+
+.astronaute
+{
+	position: absolute;
+	bottom: 0px;
+	left: 42%;
+}
+
+.bulle
+{
+	position: absolute;
+	top: 2%;
+	left: 7%;
+	width: 35%;
+}
